@@ -12,4 +12,4 @@ Hello! I’m Xi Feng, a freshman studying AI.
 ## My AI learning principles
 - Start with the implementation first, then understand the principles behind it. Use it first, and later study the underlying mechanics.
 - Don’t chase new things; focus on deeper insights. There are countless tools available, but using one effectively is better than trying ten tools at once.
--Training is a better way to learn.  学会一个东西最好的方式是教给别人
+-Training is a better way to learn.  The best way to learn something is to teach it to others.
